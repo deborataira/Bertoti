@@ -63,3 +63,35 @@ https://github.com/deborataira/Bertoti
 
 Ali Mohamed
 https://github.com/alimoahmed/bertoti
+
+Joao Pedro Lopes de Rezende
+https://github.com/joaolrez/bertoti
+
+Elisa da Silva Carvalho
+https://github.com/elisadsc/Bertoti
+
+Rita Hecht
+https://github.com/ritahecht/bertoti/commits?author=ritahecht
+
+Eliézer Lopes 
+https://github.com/EliezerLopes1/Eliezer.Lopes-Bertoti
+
+Pedro Seraggi
+https://github.com/PedroSeraggi/Bertoti
+
+Thyago Silveira
+https://github.com/Thyaguixx/bertoti
+
+Raynara Nascimento
+https://github.com/raynaranasc/bertoti
+
+Isabel Vitória 
+https://github.com/IsabelRReis/bertoti/blob/main/Engenharia%20I/readme
+
+Nicholas Guilherme Coelho Teodoro
+https://github.com/NicholasGui29/Bertoti
+
+Brener Reis
+https://github.com/BrenerReis/Bertoti
+
+
