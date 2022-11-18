@@ -22,7 +22,7 @@ O que é um trade-off?
 
 25/08/2022
 
-Coletar os requisitos funcionais e não funcionais do sistema.
+Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 
 ### Sistema Escolhido:
 > > Sistema que cadastra em uma lista sementes compradas por pequenoa agricultores, sendo possivel, adicionar, alterar e deletar sementes cadastradas. 
