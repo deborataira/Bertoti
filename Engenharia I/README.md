@@ -34,7 +34,7 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 > > Não Funcionais:
 - Sistema MVC;
-- Facil usabilidade e compreensao do usuarioe e sistema.
+- Facil usabilidade e compreensao do usuarios e sistema.
 
 ### Diagrama UML(Unified Modeling Language)
 
