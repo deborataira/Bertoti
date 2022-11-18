@@ -29,6 +29,7 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 
 ### Requisitos coletados
 > > Funcionais:
+> > - Cadastrar usuario
 - Criar uma ou mais listagens;
 - Adicionar, alterar e deletar itens.
 
