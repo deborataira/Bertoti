@@ -29,13 +29,13 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 
 ### Requisitos coletados
 > > Funcionais:
-- Cadastrar usuario
+- Cadastrar usuário
 - Criar uma ou mais listagens;
 - Adicionar, alterar e deletar itens.
 
 > > Não Funcionais:
 - Sistema MVC;
-- Facil usabilidade e compreensao do usuarios e sistema.
+- Fácil usabilidade e compreensão do usuários e sistema.
 
 ### Diagrama UML(Unified Modeling Language)
 
