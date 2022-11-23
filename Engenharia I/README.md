@@ -25,11 +25,11 @@ O que é um trade-off?
 Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 
 ### Sistema Escolhido:
-> > Sistema que cadastra em uma lista sementes compradas por pequenoa agricultores, sendo possivel, adicionar, alterar e deletar sementes cadastradas. 
+> > Sistema que cadastra em uma lista sementes compradas por pequenos agricultores, sendo possivel, adicionar, alterar e deletar sementes cadastradas. 
 
 ### Requisitos coletados
 > > Funcionais:
-> > - Cadastrar usuario
+- Cadastrar usuario
 - Criar uma ou mais listagens;
 - Adicionar, alterar e deletar itens.
 
