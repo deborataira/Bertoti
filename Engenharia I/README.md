@@ -41,18 +41,18 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 <img src = "https://github.com/deborataira/Bertoti/imagens/uml.png " />
 
 
-### Código do Projeto - Semente 
->> Classe App
+# Código do Projeto - Semente 
+### Classe App
 <img src = "https://github.com/deborataira/Bertoti/imagens/App.png " />
->> Classe Semente
+### Classe Semente
 <img src = "https://github.com/deborataira/Bertoti/imagens/Semente.png " />
->> Classe Agricultores
+### Classe Agricultores
 <img src = "https://github.com/deborataira/Bertoti/imagens/Agricultores.png " />
->> Classe Lista
+### Classe Lista
 <img src = "https://github.com/deborataira/Bertoti/imagens/Lista.png " />
->> Classe Categoria
+### Classe Categoria
 <img src = "https://github.com/deborataira/Bertoti/imagens/Categoria.png " />
->> Classe Main 
+### Classe Main 
 <img src = "https://github.com/deborataira/Bertoti/imagens/Main.png " />
 
 ## Projeto Final
