@@ -40,6 +40,24 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 ### Diagrama UML(Unified Modeling Language)
 <img src = "https://github.com/deborataira/Bertoti/imagens/uml.png " />
 
+
+### Código do Projeto - Semente 
+>> Classe App
+<img src = "https://github.com/deborataira/Bertoti/imagens/App.png " />
+>> Classe Semente
+<img src = "https://github.com/deborataira/Bertoti/imagens/Semente.png " />
+>> Classe Agricultores
+<img src = "https://github.com/deborataira/Bertoti/imagens/Agricultores.png " />
+>> Classe Lista
+<img src = "https://github.com/deborataira/Bertoti/imagens/Lista.png " />
+>> Classe Categoria
+<img src = "https://github.com/deborataira/Bertoti/imagens/Categoria.png " />
+>> Classe Main 
+<img src = "https://github.com/deborataira/Bertoti/imagens/Main.png " />
+
+## Projeto Final
+<img src = "https://github.com/deborataira/Bertoti/imagens/Final.png " />
+
  
 
     
