@@ -38,7 +38,7 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 - Fácil usabilidade e compreensão do usuários e sistema.
 
 ### Diagrama UML(Unified Modeling Language)
-<img src = "https://github.com/deborataira/Bertoti/Imagens/Classe.png"/>
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/Classe.png"/>
 
 
 # Código do Projeto - Semente 
