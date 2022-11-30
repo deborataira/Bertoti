@@ -43,23 +43,25 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 
 # Código do Projeto - Semente 
 ### Classe App
-<img src = "https://github.com/deborataira/Bertoti/imagens/App.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/app.png " />
 
 ### Classe Semente
-<img src = "https://github.com/deborataira/Bertoti/imagens/Semente.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/semente1.png" />
 
 ### Classe Agricultores
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/agricultor1.png " />
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/agricultor2.png " />
 
 ### Classe Lista
-<img src = "https://github.com/deborataira/Bertoti/imagens/Lista.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/listas1.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/listas2.png " />
 
 ### Classe Categoria
-<img src = "https://github.com/deborataira/Bertoti/imagens/Categoria.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/categoria.png.png " />
 
-### Classe Main 
-<img src = "https://github.com/deborataira/Bertoti/imagens/Main.png " />
+### Classe Itens 
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/itens1.png" />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/itens2.png" />
 
 ## Projeto Final
 <img src = "https://github.com/deborataira/Bertoti/imagens/Final.png " />
