@@ -49,7 +49,8 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 <img src = "https://github.com/deborataira/Bertoti/imagens/Semente.png " />
 
 ### Classe Agricultores
-<img src = "https://github.com/deborataira/Bertoti/imagens/Agricultores.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/agricultor1.png " />
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/agricultor2.png " />
 
 ### Classe Lista
 <img src = "https://github.com/deborataira/Bertoti/imagens/Lista.png " />
