@@ -57,7 +57,7 @@ Coletar os requisitos funcionais e não funcionais do sistema. :seedling:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/listas2.png " />
 
 ### Classe Categoria
-<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/categoria.png.png " />
+<img src = " https://github.com/deborataira/Bertoti/blob/main/Imagens/categoria.png " />
 
 ### Classe Itens 
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/itens1.png" />
