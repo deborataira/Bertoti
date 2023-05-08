@@ -97,7 +97,6 @@ C&A:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/cea.png">
 
 
-
 # Critério de Sucesso 3.2.3 Navegação Consistente [AA] (ERRADO)
 
 Os mecanismos de navegação que são repetidos em múltiplas páginas web dentro de um conjunto de páginas web ocorrem na mesma ordem relativa a cada vez que são repetidos, a menos que seja iniciada uma alteração pelo usuário.
