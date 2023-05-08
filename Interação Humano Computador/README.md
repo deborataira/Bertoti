@@ -1,19 +1,5 @@
 # Interação Humano e Computadador
-Debora Taira Novaes 
-3° Semestre de Análise e Desenvolvimento de sistemas
-
-# Tópicos
-- <a href ="#data">   </a>
-- <a href ="#heuristicas">   </a>
-- <a href ="#projeto">   </a>
-- <a href ="#objetivo">   </a>
-- <a href ="#requisito-do-site">   </a>
-- <a href ="#metodologia">   </a>
-- <a href ="#cronograma-e-sprint">   </a>
-- <a href ="#tecnologia-utilizadas">  </a>
-- <a href ="#sprint"> </a>
-- <a href ="#burndown-do-projeto">   </a>
- 
+Debora Taira Novaes - 3° Semestre de Análise e Desenvolvimento de sistemas
 
 # Data
 Entrega do trabalho dia 10 de maio.
@@ -25,9 +11,9 @@ Acessibilidade - as pessoas conseguirem acessar sem nenhuma limitação.
 
  
 # 1.2.2 - Legendas (pré-gravado) [A] - Perceptível   (CORRETO)
-Multimídia baseada em tempo
+> Multimídia baseada em tempo
 Qualquer conteúdo pré-gravado que contenha uma faixa de áudio (seja apenas áudio ou vídeo) deve possuir legenda.
-https://music.youtube.com/watch?v=tMWpm_GOLaA&list=RDAMVMtMWpm_GOLaA
+
 
 # 1.4.1 - Utilização de cores [A]-Perceptível (ERRADO)
 Discernível
