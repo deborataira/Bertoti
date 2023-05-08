@@ -82,21 +82,19 @@ Os componentes que têm a mesma funcionalidade em um conjunto de páginas web s�
 > Podemos notar uma certa consistência nas páginas de moda presentes aqui.
 
 Shein:
-< img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/shein.png">
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/shein.png">
 
 Riachuelo:
-< img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/ria.png">
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/ria.png">
 
 Youcom:
-
-< img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/yc.png">
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/yc.png">
 
 Renner:
-< img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/renner.png">
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/renner.png">
 
-C&A
-< img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/cea.png">
-
+C&A:
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/cea.png">
 
 
 
