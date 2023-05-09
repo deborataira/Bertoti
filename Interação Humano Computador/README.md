@@ -17,7 +17,7 @@ Qualquer conteúdo pré-gravado que contenha uma faixa de áudio (seja apenas á
 
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/video-terno.gif">
 
-# 1.4.1 - Utilização de cores [A] - Perceptível (ERRADO)
+# 1.4.1 - Utilização de cores [A] - Perceptível 
 > Discernível
 
 Cores não devem ser utilizadas como única maneira de transmitir conteúdo ou distinguir elementos visuais.
