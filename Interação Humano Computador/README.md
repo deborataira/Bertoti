@@ -81,31 +81,36 @@ Os componentes que têm a mesma funcionalidade em um conjunto de páginas web s�
 
 > Podemos notar uma certa consistência nas páginas de moda presentes aqui.
 
-Shein:
+### Shein:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/shein.png">
 
-Riachuelo:
+### Riachuelo:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/ria.png">
 
-Youcom:
+### Youcom:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/yc.png">
 
-Renner:
+### Renner:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/renner.png">
 
-C&A:
+### C&A:
 <img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/cea.png">
 
 
 # Critério de Sucesso 3.2.3 Navegação Consistente [AA] (ERRADO)
 
 Os mecanismos de navegação que são repetidos em múltiplas páginas web dentro de um conjunto de páginas web ocorrem na mesma ordem relativa a cada vez que são repetidos, a menos que seja iniciada uma alteração pelo usuário.
+Exemplo de entrada na página de login, em um sistema de transportadoras.
+> Testes foram realizados, mesmo que sejam colocados fontes maiusculas e minusculas, o resultado permanece o mesmo.
 
-ssw login
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/agb-video.gif">
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/ane-video.gif">
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/bus-video.gif">
 
 #  3.3.6 Sugestão de Erro AAA (CORRETO)
 
 Se um erro de entrada for automaticamente detectado e forem conhecidas sugestões de correção, então as sugestões são fornecidas ao usuário, a menos que coloque em risco a segurança ou o propósito do conteúdo.
+Na barra de pesquisa, escrevi a palavra facebook errada e foi sugerido a correção da mesma. 
 
-PESQUISA 
+<img src = "https://github.com/deborataira/Bertoti/blob/main/Imagens/facebook.png">
 
