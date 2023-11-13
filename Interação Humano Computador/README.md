@@ -1,13 +1,3 @@
-# Interação Humano e Computadador
-Debora Taira Novaes - 3° Semestre de Análise e Desenvolvimento de sistemas
-
-# Data
-Entrega do trabalho dia 10 de maio.
-
-# Heuristicas
-O conceito heurístico se refere a uma técnica de comportamento e pensamento quase automático nos seres humanos. A intuição e a inconsciência são usadas como base para encontrar a resposta necessária para solucionar um problema.
-Usabilidade - os usuários serem capazes de alcançar seus objetivos com um mínimo esforço e com resultados máximo; 
-Acessibilidade - as pessoas conseguirem acessar sem nenhuma limitação.
 
 # Uso do Chat GPT para auxílio de pessoas no espectro autista
 > Debora Taira Novaes, Ítalo Bonilha Nascimento, Marina Angela Nobre Araújo Maciel  
